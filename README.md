@@ -25,12 +25,34 @@
 * The easiest way to do this is to press **Clone or Download** on the repositories page on github.com and press open in desktop
 * GitHub desktop will now open, once you have checked the location is ok, press clone.
 
+
 ## Basic Markdown 
 
-* add an image
+* Add an image
 
-``` ![alternative text](imageURL) ```
+``` ![alternative text](imageURL) 
 
-e.g. \!\[cat picture\]\(cat.jpg\)
+e.g. ![cat picture](cat.jpg)```
+
+* Headings
+
+``` # This is a heading
+    ## This is a smaller heading```
+
+* Bold
+
+``` ** This is bold text ** ```
+
+* Italic
+
+``` * This is italic text * ```
+
+* lists
+
+``` * List item 1
+    * List item 2
+
+    1. Numbered list item 1
+    2. Numbered list item 2```
 
 
