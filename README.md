@@ -10,5 +10,5 @@
  * Add the username of the person you want to collaborate with and press enter
  * The collaborator now needs to accept the invitation on line
 
-
+## How to clone a repository
  
