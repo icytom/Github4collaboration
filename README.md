@@ -35,29 +35,40 @@
 
 * Add an image
 
-```![alternative text](imageURL) 
+```
+![alternative text](imageURL) 
 
-e.g. ![cat picture](cat.jpg)```
+e.g. ![cat picture](cat.jpg)
+
+```
 
 * Headings
 
-``` # This is a heading
-    ## This is a smaller heading```
+``` 
+# This is a heading
+## This is a smaller heading
+```
 
 * Bold
 
-``` ** This is bold text ** ```
+```
+** This is bold text **
+```
 
 * Italic
 
-``` * This is italic text * ```
+```
+* This is italic text *
+```
 
 * lists
 
-``` * List item 1
-    * List item 2
+```
+* List item 1
+* List item 2
 
-    1. Numbered list item 1
-    2. Numbered list item 2```
+1. Numbered list item 1
+2. Numbered list item 2
+```
 
 
