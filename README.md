@@ -25,6 +25,11 @@
 * The easiest way to do this is to press **Clone or Download** on the repositories page on github.com and press open in desktop
 * GitHub desktop will now open, once you have checked the location is ok, press clone.
 
+## Working with files
+
+* Before you add new content remember to first **FETCH** to check that someone else hasn't made changes to the repository and **PULL** and changes
+* When you have added new content **COMMIT** and **PUSH** the changes to the repository 
+
 
 ## Basic Markdown 
 
