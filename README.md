@@ -6,6 +6,8 @@
 
  * Ask them for their username
  * On GitHub.com go to Settings -> Manage access 
+ * ![Manage access](/images/manage_access.JPG) 
+
  * Press Invite collaborators
  * Add the username of the person you want to collaborate with and press enter
  * The collaborator now needs to accept the invitation on line
