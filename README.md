@@ -9,7 +9,7 @@
 
 ## Create a new repository
 
-* On GitHub desktop or on GitHub.com one person in the group create a new repository and name it ** travelagentwebsite**
+* On GitHub desktop or on GitHub.com one person in the group create a new repository and name it **travelagentwebsite**
 
 ## Give someone else access to your repository
 
@@ -35,7 +35,7 @@
 
 * Add an image
 
-``` ![alternative text](imageURL) 
+```![alternative text](imageURL) 
 
 e.g. ![cat picture](cat.jpg)```
 
