@@ -9,7 +9,7 @@
 
 ## Create a new repository
 
-* On GitHub desktop or on GitHub.com one person in the group create a new repository and name it **travelagentwebsite**
+* On GitHub desktop or on GitHub.com one person in the group create a new repository and name it.
 
 ## Give someone else access to your repository
 
