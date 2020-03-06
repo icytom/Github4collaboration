@@ -16,19 +16,19 @@
 * Ask them for their username.
 * On GitHub.com go to **Settings -> Manage access**
 * Press **Invite a collaborator** 
-* Add the username of the person you want to collaborate with and press the add button
-* The collaborator now needs to accept the invitation send to them by email
+* Add the username of the person you want to collaborate with and press the add button.
+* The collaborator now needs to accept the invitation send to them by email.
 
-## How to clone a repository
+## Clone a repository
 
-* Now that everyone can access the repository you can all clone it
-* The easiest way to do this is to press **Clone or Download** on the repositories page on github.com and press open in desktop
+* Now that everyone can access the repository you can all clone it.
+* The easiest way to do this is to press **Clone or Download** on the repositories page on github.com and press open in desktop.
 * GitHub desktop will now open, once you have checked the location is ok, press clone.
 
 ## Working with files
 
-* Before you add new content remember to first **FETCH** to check that someone else hasn't made changes to the repository and **PULL** and changes
-* When you have added new content **COMMIT** and **PUSH** the changes to the repository 
+* Before you add new content remember to first **FETCH** to check that someone else hasn't made changes to the repository and **PULL** and changes.
+* When you have added new content **COMMIT** and **PUSH** the changes to the repository.
 
 ## Conflict
 
