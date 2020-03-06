@@ -30,6 +30,12 @@
 * Before you add new content remember to first **FETCH** to check that someone else hasn't made changes to the repository and **PULL** and changes
 * When you have added new content **COMMIT** and **PUSH** the changes to the repository 
 
+## Conflict
+
+* If the same line in a file is edited by multiple team members at the same time the edits may conflict when the files are pushed back into the repository.
+* If this happens you will need to resolve the conflict, this video may help:
+[Dan shiftmans conflic video](https://www.youtube.com/watch?v=JtIX3HJKwfo&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=9
+)
 
 ## Basic Markdown 
 
