@@ -36,10 +36,18 @@
 * Add an image
 
 ```
-![alternative text](imageURL) 
+![alternative text](image URL) 
 
 e.g. ![cat picture](cat.jpg)
 
+```
+
+* Add a link
+
+```
+[link text](link URL)
+
+e.g. ![BBC](bbc.co.uk)
 ```
 
 * Headings
