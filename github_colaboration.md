@@ -1,11 +1,11 @@
-# Github for Colaboration
- How to work with Github in groups
+# Github for Collaboration
+ How to work with Github in groups.
 
 ## Log into GitHub desktop
 
-* Create an account if you havent got one
-* Download GitHub desktop if you are using your own machine
-* Open GitHub desktop and login
+* Create an account if you haven't got one.
+* Download GitHub desktop if you are using your own machine.
+* Open GitHub desktop and login.
 
 ## Create a new repository
 
@@ -13,7 +13,7 @@
 
 ## Give someone else access to your repository
 
-* Ask them for their username
+* Ask them for their username.
 * On GitHub.com go to **Settings -> Manage access**
 * Press **Invite a collaborator** 
 * Add the username of the person you want to collaborate with and press the add button
@@ -34,7 +34,7 @@
 
 * If the same line in a file is edited by multiple team members at the same time the edits may conflict when the files are pushed back into the repository.
 * If this happens you will need to resolve the conflict, this video may help:
-[Dan shiftmans conflic video](https://www.youtube.com/watch?v=JtIX3HJKwfo&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=9
+[Dan shiftmans conflict video](https://www.youtube.com/watch?v=JtIX3HJKwfo&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=9
 )
 
 ## Basic Markdown 
